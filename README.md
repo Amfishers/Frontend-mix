@@ -15,6 +15,12 @@ Maybe the most complete frontend knowledge list repository
 
 [获取 li 索引](https://github.com/Amfishers/Frontend-mix/issues/10)
 
+[NEW 如何实现](https://github.com/Amfishers/Frontend-mix/issues/13)
+
+[call / apply 相关原理](https://github.com/Amfishers/Frontend-mix/issues/14)
+
+[实现一个 bind](https://github.com/Amfishers/Frontend-mix/issues/15)
+
 ## CSS 系列
 
 [盒子模型](https://github.com/Amfishers/Frontend-mix/issues/1)
